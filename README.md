@@ -1,1 +1,2 @@
-# Public-AI-Terrain_Generation
+# AI-terrain-generation-Unity
+AI based terrain generation
